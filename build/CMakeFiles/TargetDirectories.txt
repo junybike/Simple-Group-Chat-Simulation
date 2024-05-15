@@ -1,0 +1,4 @@
+/home/cmpt201/units/03-memory/a12-junybike/build/CMakeFiles/server.dir
+/home/cmpt201/units/03-memory/a12-junybike/build/CMakeFiles/client.dir
+/home/cmpt201/units/03-memory/a12-junybike/build/CMakeFiles/edit_cache.dir
+/home/cmpt201/units/03-memory/a12-junybike/build/CMakeFiles/rebuild_cache.dir
