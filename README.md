@@ -1,5 +1,5 @@
-# Simple Group Chat Simulation
-This is a raw copy of the Simple Group Chat project  
+# Simple Group Chat Simulation  
+The Simple Group Chat Simulation project  
 
 ## In this project...
 - Used INET TCP protocol to set the group chat environment using C in a Linux virtual machine 
@@ -12,5 +12,4 @@ This is a raw copy of the Simple Group Chat project
 - Server is designed to automatically shutdown when all clients are signaled to exit
 
 ## Future plan:
-- Modify so that it takes user input as the message
-- Allow users to write a username and let it be displayed along with the messages
+- Implement Simple Group Chat which takes user input as the message
