@@ -1,4 +1,4 @@
-# Simple Group Chat
+# Simple Group Chat Simulation
 This is a raw copy of the Simple Group Chat project  
 
 ## In this project...
